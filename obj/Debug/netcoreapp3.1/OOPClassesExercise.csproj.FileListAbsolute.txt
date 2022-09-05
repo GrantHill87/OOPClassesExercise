@@ -1,0 +1,14 @@
+C:\Users\Grant\OneDrive\Desktop\Repos\OOPClassesExercise\OOPClassesExercise\bin\Debug\netcoreapp3.1\OOPClassesExercise.exe
+C:\Users\Grant\OneDrive\Desktop\Repos\OOPClassesExercise\OOPClassesExercise\bin\Debug\netcoreapp3.1\OOPClassesExercise.deps.json
+C:\Users\Grant\OneDrive\Desktop\Repos\OOPClassesExercise\OOPClassesExercise\bin\Debug\netcoreapp3.1\OOPClassesExercise.runtimeconfig.json
+C:\Users\Grant\OneDrive\Desktop\Repos\OOPClassesExercise\OOPClassesExercise\bin\Debug\netcoreapp3.1\OOPClassesExercise.runtimeconfig.dev.json
+C:\Users\Grant\OneDrive\Desktop\Repos\OOPClassesExercise\OOPClassesExercise\bin\Debug\netcoreapp3.1\OOPClassesExercise.dll
+C:\Users\Grant\OneDrive\Desktop\Repos\OOPClassesExercise\OOPClassesExercise\bin\Debug\netcoreapp3.1\OOPClassesExercise.pdb
+C:\Users\Grant\OneDrive\Desktop\Repos\OOPClassesExercise\OOPClassesExercise\obj\Debug\netcoreapp3.1\OOPClassesExercise.csproj.AssemblyReference.cache
+C:\Users\Grant\OneDrive\Desktop\Repos\OOPClassesExercise\OOPClassesExercise\obj\Debug\netcoreapp3.1\OOPClassesExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grant\OneDrive\Desktop\Repos\OOPClassesExercise\OOPClassesExercise\obj\Debug\netcoreapp3.1\OOPClassesExercise.AssemblyInfoInputs.cache
+C:\Users\Grant\OneDrive\Desktop\Repos\OOPClassesExercise\OOPClassesExercise\obj\Debug\netcoreapp3.1\OOPClassesExercise.AssemblyInfo.cs
+C:\Users\Grant\OneDrive\Desktop\Repos\OOPClassesExercise\OOPClassesExercise\obj\Debug\netcoreapp3.1\OOPClassesExercise.csproj.CoreCompileInputs.cache
+C:\Users\Grant\OneDrive\Desktop\Repos\OOPClassesExercise\OOPClassesExercise\obj\Debug\netcoreapp3.1\OOPClassesExercise.dll
+C:\Users\Grant\OneDrive\Desktop\Repos\OOPClassesExercise\OOPClassesExercise\obj\Debug\netcoreapp3.1\OOPClassesExercise.pdb
+C:\Users\Grant\OneDrive\Desktop\Repos\OOPClassesExercise\OOPClassesExercise\obj\Debug\netcoreapp3.1\OOPClassesExercise.genruntimeconfig.cache
